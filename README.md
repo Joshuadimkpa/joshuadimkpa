@@ -1,29 +1,18 @@
-Hi, I'm Joshua Dimkpa 👋
-Product Designer · Software Developer · AI Enthusiast
+# 💫 About Me:
+<br>Hi, I'm Joshua Dimkpa 👋<br>Product Designer · Software Developer · AI Enthusiast<br><br><br>I'm a product designer and software developer passionate about building digital experiences that solve real-world problems. I work at the intersection of design, technology, and human behaviour, turning ideas into intuitive, accessible, and impactful digital products.<br><br>My interests span UI/UX design, frontend development, artificial intelligence, and human-centred innovation. I enjoy exploring how thoughtful design and emerging technologies can make digital experiences more useful, inclusive, and meaningful.<br><br>What I'm interested in<br>- Product Design: Crafting intuitive user experiences and user-centred digital products.<br>- Software Development: Building functional, scalable, and user-friendly applications.<br>- Artificial Intelligence: Exploring AI-powered products and responsible AI innovation.<br>- Research & Innovation: Understanding user needs and translating insights into better solutions.<br>- Digital Impact: Using technology to solve meaningful problems and expand access to digital opportunities.<br><br>What I'm working towards<br>- Building products that combine great design with practical engineering.<br>- Exploring the intersection of AI, user experience, and human-computer interaction.<br>- Collaborating with developers, designers, founders, and innovative teams.<br>- Continuously learning, experimenting, and contributing to impactful projects.<br><br>🤝 Let's collaborate<br>I'm open to collaborating on interesting projects, open-source initiatives, AI-powered products, and ideas that make technology work better for people.<br><br><br>My philosophy: Technology should advance humanity, not replace it.<br>
 
 
-I'm a product designer and software developer passionate about building digital experiences that solve real-world problems. I work at the intersection of design, technology, and human behaviour, turning ideas into intuitive, accessible, and impactful digital products.
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/:https://www.behance.net/joshuadimkpa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/:https://www.linkedin.com/in/joshua-dimkpa/?isSelfProfile=true) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/:https://x.com/joshuadimkpa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuadimkpa@gmail.com) 
 
-My interests span UI/UX design, frontend development, artificial intelligence, and human-centred innovation. I enjoy exploring how thoughtful design and emerging technologies can make digital experiences more useful, inclusive, and meaningful.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=joshuadimkpa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=joshuadimkpa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=joshuadimkpa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-What I'm interested in
-- Product Design: Crafting intuitive user experiences and user-centred digital products.
-- Software Development: Building functional, scalable, and user-friendly applications.
-- Artificial Intelligence: Exploring AI-powered products and responsible AI innovation.
-- Research & Innovation: Understanding user needs and translating insights into better solutions.
-- Digital Impact: Using technology to solve meaningful problems and expand access to digital opportunities.
+---
+[![](https://komarev.com/ghpvc/?username=joshuadimkpa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-What I'm working towards
-- Building products that combine great design with practical engineering.
-- Exploring the intersection of AI, user experience, and human-computer interaction.
-- Collaborating with developers, designers, founders, and innovative teams.
-- Continuously learning, experimenting, and contributing to impactful projects.
-
-🤝 Let's collaborate
-I'm open to collaborating on interesting projects, open-source initiatives, AI-powered products, and ideas that make technology work better for people.
-- LinkedIn: Connect with me :https://www.linkedin.com/in/joshua-dimkpa/?isSelfProfile=true
-- Behance: Explore my designs :https://www.behance.net/joshuadimkpa
--  Follow me X :https://x.com/joshuadimkpa
-
-
-My philosophy: Technology should advance humanity, not replace it.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
